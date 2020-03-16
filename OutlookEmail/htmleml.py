@@ -1,3 +1,5 @@
+# don't use this to send emails. This might be the source of the compromised email situation on 2020-03-16
+
 import smtplib
 
 sender = 'Hector Quemada<hector.quemada@wmich.edu>'
@@ -19,8 +21,8 @@ This is an e-mail message to be sent in HTML format<br>
 try:
    server = smtplib.SMTP('smtp.office365.com',587)
    server.starttls()
-   server.login('hquemada@wmich.edu','TheN3xtD@yAt1')
+   server.login('hquemada@wmich.edu','W0lbachiaMosquito')
    server.sendmail(sender, receivers, message)
    print("Successfully sent email")
-except SMTPException:
+except smtplib.SMTPException:
    print("Error: unable to send email")

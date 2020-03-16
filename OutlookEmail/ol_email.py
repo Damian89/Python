@@ -42,4 +42,3 @@ server.sendmail(email_user,email_send,text)
 
 server.quit()
 print('Email sent!')
-                    
