@@ -1,3 +1,4 @@
 ProviderCode,MonthlyPremium,OutOfPocket,PrimaryCareVisit,SpecialistVisit,ChemoDrugs,OtherPartBDrugs,HomeHealthCare,DME,AnnualPartDDeductible,PartDDrugs,ExtraBenefits
-AMP194,11,5900/5900,0/20,30/55,20/50,20/50,0/50,20/25,NC,NC,Yes
-AMV219,00,6725/6725,0/25,35/60,20/50,20/50,20/50,0/50,20/35,0,0-100 and/or 33%,Yes
+AMPPO194,$11,$5900/$5900,$0/$20,$30/$55,20%/50%,20%/50%,$0/50%,20%/40%,not covered,not covered,Yes
+AMPPO219,$0,$6725/$6725,$0/$25,$35/$60,20%/50%,20%/50%,$0/50%,20%/35%,$0,$0-$100 and/or 33%,Yes
+ACHMO482,$0,$2900,$0,$50,20%,20%,$0,20%,$480 some drugs; call plan,$0-$100 and/or 25%,Yes
