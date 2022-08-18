@@ -1,0 +1,11 @@
+This is some text
+this is more text
+this is a third line
+this is a fourth line
+this is a third line
+phrase
+
+Today 
+$phrase 
+This is a phrase7,177.1\n7,177.1
+7,177.1
