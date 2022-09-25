@@ -1,5 +1,3 @@
-#! /usr/local/bin/python3.10
-
 # getOpenWeather.py: Prints the weather for a location from the command line.
 # from the Open Weather Map API
 # my appid is '6fc59ea854f7f40a294fe43f7012be2c'
