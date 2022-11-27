@@ -6,9 +6,6 @@ df = pd.read_csv("kcases_week_withDate.csv",
 				parse_dates=True,
 				index_col="Date")
 
-# displaying the first five rows of dataset
-df.head()
-
 #plot the data
 #df['Weekly Cases'].plot()
 df.plot(subplots=True, figsize=(9, 8))

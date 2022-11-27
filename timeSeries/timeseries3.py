@@ -11,8 +11,8 @@ import plotly.express as px
 
 df_melt = csvFile.melt(
     id_vars='Date',
-    value_vars=['Weekly Cases', 'Weekly Deaths'])
+    value_vars=['Cases', 'Deaths'])
 
-fig = px.line(df_melt, x='Date',y='value',markers=True,facet_col='variable',facet_col_wrap=1,color='variable', width=1000,height=1000,title="COVID-19 Cases and Deaths")
-fig.update_yaxes(showticklabels=True, matches=None)
+fig = px.line(df_melt, x='Date',y='value',markers=True,facet_col='variable',facet_col_wrap=1,color='variable', width=1000,height=1000, title="COVID-19 Cases and Deaths")
+fig.update_yaxes(showticklabels=True, matches=None, title="Number")
 fig.show()

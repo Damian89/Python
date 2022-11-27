@@ -8,5 +8,5 @@ csvFile = pd.read_csv('kcases_week_withDate.csv')
 print(csvFile)
 
 import plotly.express as px
-figure = px.line(csvFile, x = csvFile.Date, y ="Weekly Cases", markers=True, title = "COVID 19 Cases, Kalamazoo MI")
+figure = px.line(csvFile, x = csvFile.Date, y ="Cases", markers=True, title = "COVID 19 Cases, Kalamazoo MI")
 figure.show()
