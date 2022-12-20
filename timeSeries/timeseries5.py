@@ -19,4 +19,3 @@ fig = go.Figure([go.Scatter(x=df['Date'], y=df['Deaths'], fill="tozeroy")],
 fig.update_xaxes(title="Date")
 fig.update_yaxes(title="Deaths")
 fig.show()
-

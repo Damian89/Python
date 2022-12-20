@@ -1,3 +1,6 @@
+from signal import signal, SIGPIPE, SIG_DFL  
+signal(SIGPIPE,SIG_DFL) 
+
 import plotly.graph_objects as go
 import pandas as pd
 from plotly.graph_objs import Figure
