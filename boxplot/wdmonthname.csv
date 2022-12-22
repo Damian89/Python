@@ -1,283 +1,285 @@
 Month,Weight
-February,176.5
-February,174
-February,174.7
-February,174.3
-February,173.3
-February,172.9
-March,172.7
-March,172.8
-March,172.9
-March,175.4
-March,175.5
-March,175.5
-March,174.4
-March,175.4
-March,175.7
-March,173.5
-March,176
-March,175.9
-March,175.7
-March,175.1
-March,173.8
-March,174.9
-March,176.5
-March,178
-March,176.3
-March,177.1
-March,174.3
-March,174.8
-March,171.5
-March,172.7
-March,172.9
-March,173.5
-March,174
-March,172.7
-March,173.9
-March,173.3
-March,173.3
-April,174.3
-April,174.1
-April,172.5
-April,174.7
-April,174.8
-April,176.3
-April,174.9
-April,174.4
-April,174.7
-April,176
-April,174.3
-April,174.4
-April,174.1
-April,172.9
-April,173.9
-April,173.8
-April,173.9
-April,173.2
-April,175.1
-April,176.5
-April,174.5
-April,174.4
-April,174.6
-April,173.8
-April,172.6
-April,174
-April,174.6
-April,174.6
-April,173.7
-April,173.9
-May,174
-May,173
-May,173.9
-May,175.5
-May,175.1
-May,175.3
-May,174.5
-May,174.8
-May,175.3
-May,175.9
-May,175.8
-May,174.7
-May,175.4
-May,176.6
-May,176.8
-May,174.9
-May,176.4
-May,177.2
-May,175
-May,174.4
-May,175.5
-May,175.7
-May,175.7
-May,175.8
-May,177.6
-May,177.2
-May,176.5
-May,176.9
-June,175.1
-June,176.2
-June,176.9
-June,175.6
-June,176.9
-June,177
-June,175.5
-June,176.6
-June,178.2
-June,179
-June,179.2
-June,178.8
-June,177.1
-June,177.2
-June,177
-June,176.8
-June,176.5
-June,176.2
-June,176.7
-June,176.4
-June,176.6
-June,177.5
-June,177.7
-June,176.7
-June,176.7
-June,176.5
-June,176.4
-June,177.8
-July,177.7
-July,179.8
-July,179
-July,176.9
-July,177.2
-July,177.2
-July,176.8
-July,174.9
-July,175.6
-July,177
-July,175.5
-July,176.6
-July,177.6
-July,177.2
-July,177.5
-July,176.9
-July,176.7
-July,176.1
-July,177
-July,176.5
-July,177.5
-July,174.7
-July,175.4
-July,176.1
-July,177
-July,176.1
-July,176.1
-July,176.1
-August,176.8
-August,179
-August,177.2
-August,175.8
-August,176.1
-August,176.9
-August,176.8
-August,175.7
-August,175.1
-August,174.8
-August,174.9
-August,175.8
-August,176.8
-August,177.1
-August,176.2
-August,175.6
-August,176.1
-August,174.8
-August,177.1
-August,176.9
-August,176.6
-August,175.6
-August,175.9
-August,175.7
-August,175.9
-August,174.8
-August,174.9
-August,174.3
-August,174.7
-August,175.8
-August,175.8
-September,174.8
-September,174.6
-September,175.4
-September,174.1
-September,176
-September,174.9
-September,174.6
-September,176.4
-September,175.5
-September,175.1
-September,176.6
-September,175
-September,175.6
-September,174.3
-September,174.4
-September,174.5
-September,174.7
-September,174.6
-September,174
-September,173.9
-September,174.5
-September,174.4
-September,173.5
-September,173.3
-September,173
-September,171.9
-September,172.9
-September,173.2
-September,175.5
-October,174.6
-October,175.1
-October,175.6
-October,173.2
-October,172.9
-October,172.8
-October,174.3
-October,174.4
-October,173.5
-October,173.8
-October,174.8
-October,174.9
-October,174.9
-October,175.4
-October,175.9
-October,175.9
-October,175.1
-October,174.3
-October,174.8
-October,175.3
-October,175.8
-October,173.8
-October,173.3
-October,173.8
-October,173.7
-October,173.4
-October,173.5
-October,174.6
-October,174.8
-November,175.3
-November,174.4
-November,173.6
-November,174.6
-November,173
-November,172.4
-November,171.7
-November,173.8
-November,173.6
-November,174.5
-November,174.9
-November,175.3
-November,174.4
-November,174.7
-November,174.7
-November,174.3
-November,174.5
-November,174.7
-November,173.8
-November,174.6
-November,174.0
-November,173.9
-December,173.8
-December,174.3
-December,174.5
-December,175.8
-December,173.6
-December,174.3
-December,174.3
-December,173.2
-December,172.8
-December,173.4
-December,172.9
-December,174.0
-December,174.0
-December,174.3
-December,173.6
-December,174.9
-December,175.5
-December,172.9
-December,173.8
-December,175.8
+Feb 22,176.5
+Feb 22,174
+Feb 22,174.7
+Feb 22,174.3
+Feb 22,173.3
+Feb 22,172.9
+Mar 22,172.7
+Mar 22,172.8
+Mar 22,172.9
+Mar 22,175.4
+Mar 22,175.5
+Mar 22,175.5
+Mar 22,174.4
+Mar 22,175.4
+Mar 22,175.7
+Mar 22,173.5
+Mar 22,176
+Mar 22,175.9
+Mar 22,175.7
+Mar 22,175.1
+Mar 22,173.8
+Mar 22,174.9
+Mar 22,176.5
+Mar 22,178
+Mar 22,176.3
+Mar 22,177.1
+Mar 22,174.3
+Mar 22,174.8
+Mar 22,171.5
+Mar 22,172.7
+Mar 22,172.9
+Mar 22,173.5
+Mar 22,174
+Mar 22,172.7
+Mar 22,173.9
+Mar 22,173.3
+Mar 22,173.3
+Apr 22,174.3
+Apr 22,174.1
+Apr 22,172.5
+Apr 22,174.7
+Apr 22,174.8
+Apr 22,176.3
+Apr 22,174.9
+Apr 22,174.4
+Apr 22,174.7
+Apr 22,176
+Apr 22,174.3
+Apr 22,174.4
+Apr 22,174.1
+Apr 22,172.9
+Apr 22,173.9
+Apr 22,173.8
+Apr 22,173.9
+Apr 22,173.2
+Apr 22,175.1
+Apr 22,176.5
+Apr 22,174.5
+Apr 22,174.4
+Apr 22,174.6
+Apr 22,173.8
+Apr 22,172.6
+Apr 22,174
+Apr 22,174.6
+Apr 22,174.6
+Apr 22,173.7
+Apr 22,173.9
+May 22,174
+May 22,173
+May 22,173.9
+May 22,175.5
+May 22,175.1
+May 22,175.3
+May 22,174.5
+May 22,174.8
+May 22,175.3
+May 22,175.9
+May 22,175.8
+May 22,174.7
+May 22,175.4
+May 22,176.6
+May 22,176.8
+May 22,174.9
+May 22,176.4
+May 22,177.2
+May 22,175
+May 22,174.4
+May 22,175.5
+May 22,175.7
+May 22,175.7
+May 22,175.8
+May 22,177.6
+May 22,177.2
+May 22,176.5
+May 22,176.9
+Jun 22,175.1
+Jun 22,176.2
+Jun 22,176.9
+Jun 22,175.6
+Jun 22,176.9
+Jun 22,177
+Jun 22,175.5
+Jun 22,176.6
+Jun 22,178.2
+Jun 22,179
+Jun 22,179.2
+Jun 22,178.8
+Jun 22,177.1
+Jun 22,177.2
+Jun 22,177
+Jun 22,176.8
+Jun 22,176.5
+Jun 22,176.2
+Jun 22,176.7
+Jun 22,176.4
+Jun 22,176.6
+Jun 22,177.5
+Jun 22,177.7
+Jun 22,176.7
+Jun 22,176.7
+Jun 22,176.5
+Jun 22,176.4
+Jun 22,177.8
+Jul 22,177.7
+Jul 22,179.8
+Jul 22,179
+Jul 22,176.9
+Jul 22,177.2
+Jul 22,177.2
+Jul 22,176.8
+Jul 22,174.9
+Jul 22,175.6
+Jul 22,177
+Jul 22,175.5
+Jul 22,176.6
+Jul 22,177.6
+Jul 22,177.2
+Jul 22,177.5
+Jul 22,176.9
+Jul 22,176.7
+Jul 22,176.1
+Jul 22,177
+Jul 22,176.5
+Jul 22,177.5
+Jul 22,174.7
+Jul 22,175.4
+Jul 22,176.1
+Jul 22,177
+Jul 22,176.1
+Jul 22,176.1
+Jul 22,176.1
+Aug 22,176.8
+Aug 22,179
+Aug 22,177.2
+Aug 22,175.8
+Aug 22,176.1
+Aug 22,176.9
+Aug 22,176.8
+Aug 22,175.7
+Aug 22,175.1
+Aug 22,174.8
+Aug 22,174.9
+Aug 22,175.8
+Aug 22,176.8
+Aug 22,177.1
+Aug 22,176.2
+Aug 22,175.6
+Aug 22,176.1
+Aug 22,174.8
+Aug 22,177.1
+Aug 22,176.9
+Aug 22,176.6
+Aug 22,175.6
+Aug 22,175.9
+Aug 22,175.7
+Aug 22,175.9
+Aug 22,174.8
+Aug 22,174.9
+Aug 22,174.3
+Aug 22,174.7
+Aug 22,175.8
+Aug 22,175.8
+Sep 22,174.8
+Sep 22,174.6
+Sep 22,175.4
+Sep 22,174.1
+Sep 22,176
+Sep 22,174.9
+Sep 22,174.6
+Sep 22,176.4
+Sep 22,175.5
+Sep 22,175.1
+Sep 22,176.6
+Sep 22,175
+Sep 22,175.6
+Sep 22,174.3
+Sep 22,174.4
+Sep 22,174.5
+Sep 22,174.7
+Sep 22,174.6
+Sep 22,174
+Sep 22,173.9
+Sep 22,174.5
+Sep 22,174.4
+Sep 22,173.5
+Sep 22,173.3
+Sep 22,173
+Sep 22,171.9
+Sep 22,172.9
+Sep 22,173.2
+Sep 22,175.5
+Oct 22,174.6
+Oct 22,175.1
+Oct 22,175.6
+Oct 22,173.2
+Oct 22,172.9
+Oct 22,172.8
+Oct 22,174.3
+Oct 22,174.4
+Oct 22,173.5
+Oct 22,173.8
+Oct 22,174.8
+Oct 22,174.9
+Oct 22,174.9
+Oct 22,175.4
+Oct 22,175.9
+Oct 22,175.9
+Oct 22,175.1
+Oct 22,174.3
+Oct 22,174.8
+Oct 22,175.3
+Oct 22,175.8
+Oct 22,173.8
+Oct 22,173.3
+Oct 22,173.8
+Oct 22,173.7
+Oct 22,173.4
+Oct 22,173.5
+Oct 22,174.6
+Oct 22,174.8
+Nov 22,175.3
+Nov 22,174.4
+Nov 22,173.6
+Nov 22,174.6
+Nov 22,173
+Nov 22,172.4
+Nov 22,171.7
+Nov 22,173.8
+Nov 22,173.6
+Nov 22,174.5
+Nov 22,174.9
+Nov 22,175.3
+Nov 22,174.4
+Nov 22,174.7
+Nov 22,174.7
+Nov 22,174.3
+Nov 22,174.5
+Nov 22,174.7
+Nov 22,173.8
+Nov 22,174.6
+Nov 22,174
+Nov 22,173.9
+Dec 22,173.8
+Dec 22,174.3
+Dec 22,174.5
+Dec 22,175.8
+Dec 22,173.6
+Dec 22,174.3
+Dec 22,174.3
+Dec 22,173.2
+Dec 22,172.8
+Dec 22,173.4
+Dec 22,172.9
+Dec 22,174
+Dec 22,174
+Dec 22,174.3
+Dec 22,173.6
+Dec 22,174.9
+Dec 22,175.5
+Dec 22,172.9
+Dec 22,173.8
+Dec 22,175.8
+Dec 22,174.4
+Dec 22,174.6

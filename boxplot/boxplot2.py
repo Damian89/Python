@@ -10,7 +10,7 @@ df = pd.read_csv('wdmonthname.csv')
 fig: Figure = go.Figure()
 
 fig.add_trace(go.Violin(x=df['Month'], y=df['Weight'],
-                        line_color='rgba(255,0,0,0.5)',
+                        line_color='rgba(240,128,128,0.5)',
                         )
               )
 
