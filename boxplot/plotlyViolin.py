@@ -5,7 +5,7 @@ import pandas as pd
 df = pd.read_csv('wdmonthname.csv')
 
 # plotting the violin chart
-fig = px.violin(df, x="Month", y="Weight", box=True, points='all')
+fig = px.violin(df, x="Month", y="Weight", box=True, points='all', color_discrete_sequence=['#AD4A47'])
   
 # showing the plot
 fig.show()
