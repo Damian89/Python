@@ -1,7 +1,7 @@
 import plotly.express as px
 import pandas as pd
 
-# using the tips dataset
+# using my weight dataset
 df = pd.read_csv('wdmonthname.csv')
 
 # plotting the box chart
